@@ -1,0 +1,9 @@
+delete_entity:
+  name: Delete Entity
+  description: Delete the specified entity
+  fields:
+    entity_id:
+      name: Entity ID
+      description: The ID of the entity to delete
+      required: true
+      example: "light.kitchen_light"

@@ -1,0 +1,9 @@
+{
+    "domain": "delete_entity",
+    "name": "Delete Entity",
+    "documentation": "https://github.com/jpcaldwell30/delete_entity",
+    "dependencies": [],
+    "codeowners": ["@jpcaldwell30"],
+    "requirements": [],
+    "version": "23.10.3"
+  }
